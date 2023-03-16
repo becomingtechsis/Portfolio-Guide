@@ -18,8 +18,8 @@ _Click on the project's title (**bold** and coloured in Blue) to view my project
 | Project Name | Description | Excel Dashboard |
 |---|---|---|
 | 🌏 [Climate Warming Stripes](https://github.com/katiehuangx/Maven-Unicorn-Challenge) | Warming stripes reflect a "minimalist" style, conceived to use colour alone to avoid technical distractions to intuitively convey global warming trends to non-scientists. | [Link](https://public.tableau.com/app/profile/katie.huang/viz/UnicornCompanies_16502745371460/Unicorns?publish=yes) |
-| 💹 [Annual Report](https://github.com/becomingtechsis/Excel-Dashboard/blob/main/Sales%20Report%20Dashboard.xlsx) | This report contains 3 sheets linked via a hyper link that takes you from the weekly report, to monthyly report and then anual report | [Link](https://public.tableau.com/app/profile/katie.huang/viz/UnicornCompanies_16502745371460/Unicorns?publish=yes) |
-| 💳 [Financial Budget Tracker](https://github.com/becomingtechsis/Excel-Dashboard/blob/main/Personal%20Finance%20Tracker%20sheet.xlsx) | A project close to 🏡 home. | [Link](https://public.tableau.com/app/profile/katie.huang/viz/Covid-19anditsimpactonKLSEIndexPriceinMalaysia/Dashboard1) |
+| 💹 [Sales Overview Report](https://github.com/becomingtechsis/Excel-Dashboard/blob/main/Sales%20Report%20Dashboard.xlsx) | This report contains 3 sheets linked via a hyper link that takes you from the weekly report, to monthyly report and then anual report | [Link](https://public.tableau.com/app/profile/katie.huang/viz/UnicornCompanies_16502745371460/Unicorns?publish=yes) |
+| 💳 [Personal Finance Budget Tracker](https://github.com/becomingtechsis/Excel-Dashboard/blob/main/Personal%20Finance%20Tracker%20sheet.xlsx) | A project close to 🏡 home. | [Link](https://public.tableau.com/app/profile/katie.huang/viz/Covid-19anditsimpactonKLSEIndexPriceinMalaysia/Dashboard1) |
 
 ***
 
