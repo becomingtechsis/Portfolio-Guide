@@ -18,8 +18,8 @@ _Click on the project's title (**bold** and coloured in Blue) to view my project
 | Project Name | Description | Excel Dashboard |
 |---|---|---|
 | 🌏 [Climate Warming Stripes](https://github.com/katiehuangx/Maven-Unicorn-Challenge) | Warming stripes reflect a "minimalist" style, conceived to use colour alone to avoid technical distractions to intuitively convey global warming trends to non-scientists. | [Link](https://public.tableau.com/app/profile/katie.huang/viz/UnicornCompanies_16502745371460/Unicorns?publish=yes) |
-| 💹 [Annual Report](https://github.com/katiehuangx/Maven-Unicorn-Challenge) | This report contains 3 sheets linked via a hyper link that takes you from the weekly report, to monthyly report and then anual report | [Link](https://public.tableau.com/app/profile/katie.huang/viz/UnicornCompanies_16502745371460/Unicorns?publish=yes) |
-| 💳 [Financial Budget Tracker](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) | A project close to 🏡 home. Inspired by Alex Freberg's [Data Exploration Project](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1), I analysed global and local Covid-19 cases & the impact on Malaysia stock market from Jan 2020 to Jul 2021 using SQL and Tableau. | [Link](https://public.tableau.com/app/profile/katie.huang/viz/Covid-19anditsimpactonKLSEIndexPriceinMalaysia/Dashboard1) |
+| 💹 [Annual Report](https://github.com/becomingtechsis/Excel-Dashboard/blob/main/Sales%20Report%20Dashboard.xlsx) | This report contains 3 sheets linked via a hyper link that takes you from the weekly report, to monthyly report and then anual report | [Link](https://public.tableau.com/app/profile/katie.huang/viz/UnicornCompanies_16502745371460/Unicorns?publish=yes) |
+| 💳 [Financial Budget Tracker](https://github.com/becomingtechsis/Excel-Dashboard/blob/main/Personal%20Finance%20Tracker%20sheet.xlsx) | A project close to 🏡 home. | [Link](https://public.tableau.com/app/profile/katie.huang/viz/Covid-19anditsimpactonKLSEIndexPriceinMalaysia/Dashboard1) |
 
 ***
 
