@@ -32,21 +32,21 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 
 | Project Name | Description | SQL Functions |
 |---|---|---| 
-| 📅 Adventure works Database](https://github.com/becomingtechsis/Adventure-Works-DB) |I cleaned and transformed a data warehouse to highlight needed tables for visualization to determine sales highlight.  | |  
-| 📊 [Sales Insight](https://github.com/becomingtechsis/Sales-Insight) |In this project, I measure the effect of changes from 2021 going back 2 years on the company's sales performance. |  |  
+| 📊[Adventure Works](https://github.com/becomingtechsis/Adventure-Works-DB) |In this project, I measure the effect of changes from 2021 going back 2 years on the company's sales performance. |  |   
+| 📊[Sales Insight](https://github.com/becomingtechsis/Sales-Insight) |In this project, I measure the effect of changes from 2021 going back 2 years on the company's sales performance. |  |  
 
 ***
 
 # Power BI
 
-| Project Name | Description | Tableau Dashboard |
+| Project Name | Description | Power BI Dashboard |
 |---|---|---|
-| 🍜 [USA Food Waste Monitor](https://github.com/becomingtechsis/United-States-Food-Waste-Monitor) |  | [Link](https://app.powerbi.com/view?r=eyJrIjoiNGFmOWY5YTYtNDBhMy00YTQ3LTkwNGEtYzQxZDYzMWY1MmU5IiwidCI6IjBjNWY4MTdjLTgyOWQtNDE2NC1iN2JlLWE4ZTg2ZDg1YjY5ZiJ9) |
-| ☮ [United Nation Sustainable Development Goals](https://github.com/becomingtechsis/United-Nations-Sustainable-Development-Goals-2021) |  | [Link](https://app.powerbi.com/view?r=eyJrIjoiNmY3ZWVkMTktZjhmNy00ODdjLTlmYTMtMzJlNmYzMGEyYzJjIiwidCI6IjBjNWY4MTdjLTgyOWQtNDE2NC1iN2JlLWE4ZTg2ZDg1YjY5ZiJ9) |
-| 🍽 [A Restuarant Blueprint](https://github.com/becomingtechsis/A-Restaurant-s-Blueprint) |  | [Link](https://app.powerbi.com/view?r=eyJrIjoiYWEzY2E2MjEtMzQ5NC00ZDNhLTlhYjgtM2M4ODY5MzdiZGUzIiwidCI6IjBjNWY4MTdjLTgyOWQtNDE2NC1iN2JlLWE4ZTg2ZDg1YjY5ZiJ9) |
-| 🎼 [Music Visualization](https://github.com/becomingtechsis/Visualizing-Music) |  | [Link](https://app.powerbi.com/view?r=eyJrIjoiOTM3MTZkNzktNzA5MC00YzMzLTlhODEtNDFhYzdhNWFhOGJmIiwidCI6IjBjNWY4MTdjLTgyOWQtNDE2NC1iN2JlLWE4ZTg2ZDg1YjY5ZiJ9) |
-| 🏆 [2023 The Oscars Nominations](https://github.com/katiehuangx/Maven-Unicorn-Challenge) |  | [Link](https://app.powerbi.com/view?r=eyJrIjoiNmJkNzAzMDctNzUxMy00YjhiLWFkMzktZjIzNDMyYjRlYjI3IiwidCI6IjBjNWY4MTdjLTgyOWQtNDE2NC1iN2JlLWE4ZTg2ZDg1YjY5ZiJ9) |
-| 🎵 [Spotify Holiday Music Picker](https://github.com/becomingtechsis/Spotify-Holiday-Music-Picker) |  | [Link](https://app.powerbi.com/view?r=eyJrIjoiZDJlN2MyZWUtOWYyZC00M2RlLTgwZjYtMzBmZTc3ZGY3MWU5IiwidCI6IjBjNWY4MTdjLTgyOWQtNDE2NC1iN2JlLWE4ZTg2ZDg1YjY5ZiJ9) |
+| 🍜 [USA Food Waste Monitor](https://github.com/becomingtechsis/United-States-Food-Waste-Monitor) | Insight on how much food is going uneaten in the United States. Why it’s happening, and where it goes.  | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGFmOWY5YTYtNDBhMy00YTQ3LTkwNGEtYzQxZDYzMWY1MmU5IiwidCI6IjBjNWY4MTdjLTgyOWQtNDE2NC1iN2JlLWE4ZTg2ZDg1YjY5ZiJ9) |
+| ☮ [United Nation Sustainable Development Goals](https://github.com/becomingtechsis/United-Nations-Sustainable-Development-Goals-2021) | The United Nations Sustainable Development Goals, specifically focusing on the indicators they are measuring. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmY3ZWVkMTktZjhmNy00ODdjLTlmYTMtMzJlNmYzMGEyYzJjIiwidCI6IjBjNWY4MTdjLTgyOWQtNDE2NC1iN2JlLWE4ZTg2ZDg1YjY5ZiJ9) |
+| 🍽 [A Restuarant Blueprint](https://github.com/becomingtechsis/A-Restaurant-s-Blueprint) | Finding similarities between neighborhoods of Bangalore on the basis of food and audit.  | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWEzY2E2MjEtMzQ5NC00ZDNhLTlhYjgtM2M4ODY5MzdiZGUzIiwidCI6IjBjNWY4MTdjLTgyOWQtNDE2NC1iN2JlLWE4ZTg2ZDg1YjY5ZiJ9) |
+| 🎼 [Music Visualization](https://github.com/becomingtechsis/Visualizing-Music) | Recreated the “warming stripes” visualization but this time with music notes. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTM3MTZkNzktNzA5MC00YzMzLTlhODEtNDFhYzdhNWFhOGJmIiwidCI6IjBjNWY4MTdjLTgyOWQtNDE2NC1iN2JlLWE4ZTg2ZDg1YjY5ZiJ9) |
+| 🏆 [2023 The Oscars Nominations](https://github.com/katiehuangx/Maven-Unicorn-Challenge) | Using Infographic Designer custom visual to create an isotype chart. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmJkNzAzMDctNzUxMy00YjhiLWFkMzktZjIzNDMyYjRlYjI3IiwidCI6IjBjNWY4MTdjLTgyOWQtNDE2NC1iN2JlLWE4ZTg2ZDg1YjY5ZiJ9) |
+| 🎵 [Spotify Holiday Music Picker](https://github.com/becomingtechsis/Spotify-Holiday-Music-Picker) | Built a Holiday Song Picker using the Image Grid custom visual in Power BI using data from Spotify to help select a song based on Artist, Tempo, or Key. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDJlN2MyZWUtOWYyZC00M2RlLTgwZjYtMzBmZTc3ZGY3MWU5IiwidCI6IjBjNWY4MTdjLTgyOWQtNDE2NC1iN2JlLWE4ZTg2ZDg1YjY5ZiJ9) |
 
 ***
 
