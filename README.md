@@ -32,9 +32,8 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 
 | Project Name | Description | SQL Functions |
 |---|---|---| 
-| 🍜[Adventure works Database](https://github.com/katiehuangx/8-Week-SQL-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner) |I cleaned and transformed a data warehouse to highlight needed tables for visualization to determine sales highlight.  | |  
-| 📊 [Sales Insight](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%235%20-%20Data%20Mart) |In this project, I measure the effect of changes from 2021 going back 2 years on the company's sales performance. |  |  
-| 🦠 [Covid-19 and the Impact on Malaysia Stock Market](#) | A project close to 🏡 home. Inspired by Alex Freberg's [Data Exploration Project](#), I analysed global and local Covid-19 cases & the impact on Malaysia stock market from Jan 2020 to Jul 2021 using SQL and Tableau. |  |
+| 📅 Adventure works Database](https://github.com/becomingtechsis/Adventure-Works-DB) |I cleaned and transformed a data warehouse to highlight needed tables for visualization to determine sales highlight.  | |  
+| 📊 [Sales Insight](https://github.com/becomingtechsis/Sales-Insight) |In this project, I measure the effect of changes from 2021 going back 2 years on the company's sales performance. |  |  
 
 ***
 
@@ -47,7 +46,7 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 | 🍽 [A Restuarant Blueprint](https://github.com/becomingtechsis/A-Restaurant-s-Blueprint) |  | [Link](https://app.powerbi.com/view?r=eyJrIjoiYWEzY2E2MjEtMzQ5NC00ZDNhLTlhYjgtM2M4ODY5MzdiZGUzIiwidCI6IjBjNWY4MTdjLTgyOWQtNDE2NC1iN2JlLWE4ZTg2ZDg1YjY5ZiJ9) |
 | 🎼 [Music Visualization](https://github.com/becomingtechsis/Visualizing-Music) |  | [Link](https://app.powerbi.com/view?r=eyJrIjoiOTM3MTZkNzktNzA5MC00YzMzLTlhODEtNDFhYzdhNWFhOGJmIiwidCI6IjBjNWY4MTdjLTgyOWQtNDE2NC1iN2JlLWE4ZTg2ZDg1YjY5ZiJ9) |
 | 🏆 [2023 The Oscars Nominations](https://github.com/katiehuangx/Maven-Unicorn-Challenge) |  | [Link](https://app.powerbi.com/view?r=eyJrIjoiNmJkNzAzMDctNzUxMy00YjhiLWFkMzktZjIzNDMyYjRlYjI3IiwidCI6IjBjNWY4MTdjLTgyOWQtNDE2NC1iN2JlLWE4ZTg2ZDg1YjY5ZiJ9) |
-| 🎵 [Spotify Holiday Music Picker](https://github.com/katiehuangx/Maven-Unicorn-Challenge) |  | [Link](https://public.tableau.com/app/profile/katie.huang/viz/UnicornCompanies_16502745371460/Unicorns?publish=yes) |
+| 🎵 [Spotify Holiday Music Picker](https://github.com/becomingtechsis/Spotify-Holiday-Music-Picker) |  | [Link](https://app.powerbi.com/view?r=eyJrIjoiZDJlN2MyZWUtOWYyZC00M2RlLTgwZjYtMzBmZTc3ZGY3MWU5IiwidCI6IjBjNWY4MTdjLTgyOWQtNDE2NC1iN2JlLWE4ZTg2ZDg1YjY5ZiJ9) |
 
 ***
 
